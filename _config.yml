@@ -4,4 +4,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 title: Abarnan Rajkhowa / Hailakandi Polytecnic
-description: Lecturer in Hailakandi Polytechnic , GATE 2020 Qualified with 500+ score
+description: Lecturer in Hailakandi Polytechnic
+             Computer Science Engineering
+             A reader , A learner , an educator + coder
+             GATE CS 2020 Qualified with 500+ score
+             
+show_downloads: false
