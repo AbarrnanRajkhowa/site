@@ -1,6 +1,6 @@
 ## Class Notice Board
-[25/05/2022] Data structure Assignment 2 uploaded due date is 03/06/2022.
-Data structure Assignment 1 uploaded due date is 10/05/2022.
+-[25/05/2022] Data structure Assignment 2 uploaded due date is 03/06/2022.
+-Data structure Assignment 1 uploaded due date is 10/05/2022.
 
 ## Assignments
 
