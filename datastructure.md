@@ -26,6 +26,7 @@ To be uploaded soon....
 ## class test schedule and papers
 
 ```diff
-- Class test 1 is scheduled on 02/06/2022 syllabus till unit - 5
+- Class test 1 is postponed till further notice.
+
 
 ```
