@@ -32,9 +32,9 @@ Topics Allocated :
 ## class test schedule and papers
 
 ```diff
-- Class test 1 is Scheduled at 5/7/2022
-- Class test 2 is Scheduled at 19/7/2022
-- Poster Presentation Scheduled at 15/7/2022 
+- Class test 1 is Scheduled on 5/7/2022
+- Class test 2 is Scheduled on 19/7/2022
+- Poster Presentation is Scheduled on 15/7/2022 
 
 
 ```
