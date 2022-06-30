@@ -26,6 +26,11 @@ Topics Allocated :
 3. prefix to Postfix  [roll no 3]
 4. Quick Sort , Merge Sort [ roll no 6 ]
 5. Header Nodes and Threads  [ Roll no 9 ]
+6. Selection Sort , Insertion Sort and Radix Sort [Roll no 15]
+7. File Organisation [Roll no 17]
+8. Tree Traversal and Graph Traversal [Roll no 21]
+9. Interpolation Searching [roll no 25]
+10. Hashing [__ ]
 
 
 
