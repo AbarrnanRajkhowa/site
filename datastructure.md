@@ -14,7 +14,7 @@
 
 ## class Notes
 
-part1 -
+[part1 ](https://drive.google.com/file/d/11xSosOCxW5g9l1S0ICQv8SDmUHWtMlhp/view?usp=sharing)
 
 
 
