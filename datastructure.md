@@ -23,7 +23,7 @@ Download Lab Experiment List docs
 ## Presentation Topics and Schedule
 
 Topics Allocated :
-|Sl.no|Topic Name|Roll No|
+|Slno|Topic Name|Roll No|
 |:---|:--------:|:-----:|
 |1.| Strings library in C  |[roll no -1]|
 |2.| Postfix to Infix and Prefix  |[roll no -2]|
