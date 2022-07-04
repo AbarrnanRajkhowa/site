@@ -24,7 +24,7 @@ Download Lab Experiment List docs
 
 Topics Allocated :
 |Sl.no|Topic Name|Roll No|
-|:----------:|:----------------------------:|:---------------------:|
+|:------------:|:----------------------------:|:---------------------:|
 |1.| Strings library in C  |[roll no -1]|
 |2.| Postfix to Infix and Prefix  |[roll no -2]|
 |3. |prefix to Postfix | [roll no 3]|
