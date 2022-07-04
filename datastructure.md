@@ -32,7 +32,8 @@ Topics Allocated :
 7. File Organisation [Roll no 17]
 8. Tree Traversal and Graph Traversal [Roll no 21]
 9. Interpolation Searching [roll no 25]
-10. Hashing [__ ]
+10. Hashing [roll no 18]
+11. Tower of Hanoi [Roll no 08]
 
 
 
