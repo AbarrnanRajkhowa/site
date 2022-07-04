@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 title: Mr. Abarnan Rajkhowa
-markdown: kramdown
+markdown: GFM
 description: Lecturer in Hailakandi Polytechnic/
              Computer Science Engineering/
              A reader / A learner / an educator / coder /
