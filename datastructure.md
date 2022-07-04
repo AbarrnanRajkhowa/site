@@ -23,17 +23,19 @@ Download Lab Experiment List docs
 ## Presentation Topics and Schedule
 
 Topics Allocated :
-1. Strings library in C  [roll no -1]
-2. Postfix to Infix and Prefix  [roll no -2]
-3. prefix to Postfix  [roll no 3]
-4. Quick Sort , Merge Sort [ roll no 6 ]
-5. Header Nodes and Threads  [ Roll no 9 ]
-6. Selection Sort , Insertion Sort and Radix Sort [Roll no 15]
-7. File Organisation [Roll no 17]
-8. Tree Traversal and Graph Traversal [Roll no 21]
-9. Interpolation Searching [roll no 25]
-10. Hashing [roll no 18]
-11. Tower of Hanoi [Roll no 08]
+|Sl.no|Topic Name|Roll No|
+|:----------:|:----------------------------:|:---------------------:|
+|1.| Strings library in C  |[roll no -1]|
+|2.| Postfix to Infix and Prefix  |[roll no -2]|
+|3. |prefix to Postfix | [roll no 3]|
+|4.| Quick Sort , Merge Sort| [ roll no 6 ]|
+|5.| Header Nodes and Threads|  [ Roll no 9 ]|
+|6.| Selection Sort , Insertion Sort and Radix Sort| [Roll no 15]|
+|7.| File Organisation |[Roll no 17]|
+|8. |Tree Traversal and Graph Traversal |[Roll no 21]|
+|9. |Interpolation Searching |[roll no 25]|
+|10. |Hashing |[roll no 18]|
+|11.| Tower of Hanoi |[Roll no 08]|
 
 
 
