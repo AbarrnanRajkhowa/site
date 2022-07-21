@@ -38,6 +38,8 @@ Topics Allocated :
 |9. |Interpolation Searching |[roll no 25]|
 |10. |Hashing |[roll no 18]|
 |11.| Tower of Hanoi |[Roll no 08]|
+|12.| Shortest Path, Dijkstras Shortest Path Algorithm |[Roll no 19]|
+
 
 
 
