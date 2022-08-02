@@ -17,7 +17,7 @@ Download Lab Experiment List docs [file](https://docs.google.com/document/d/1ryJ
 ## class Notes
 
 [part1 ](https://drive.google.com/file/d/11xSosOCxW5g9l1S0ICQv8SDmUHWtMlhp/view?usp=sharing)
-[part2 ]()
+[part2 ](https://drive.google.com/file/d/1aNLy0cLacS7YMIR694uEHc8VDR5KT8db/view?usp=sharing)
 [part3 ](https://docs.google.com/document/d/140XibSs7QNd0y8sPEUhHTd7mZuxyg0B96KzJjqXPO3Q/edit?usp=sharing)
 
 
